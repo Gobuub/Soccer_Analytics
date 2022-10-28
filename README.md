@@ -1,4 +1,4 @@
-# Soccer_Analytics
+# Soccer Analytics
 
 ![Image](https://github.com/Gobuub/Soccer_Analytics/blob/main/images/Away/Valverde_heatmap.png)
 
