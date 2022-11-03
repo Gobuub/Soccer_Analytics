@@ -31,6 +31,8 @@ This repository are maked for a technical test from a soccer team.
   ![Image](https://github.com/Gobuub/Soccer_Analytics/blob/main/images/Home/Messi_heatmap.png)
   ![Image](https://github.com/Gobuub/Soccer_Analytics/blob/main/images/Away/Benzema_heatmap.png)
   
+  Link to Tableau Dashboard: [Soccer Analytics](https://public.tableau.com/app/profile/enrique.revuelta.garc.a/viz/SoccerAnalytics_16675074464940/Historia1?publish=yes)
+  
   Contact:
   
   [Linkedin](https://www.linkedin.com/in/kike-rev/)
